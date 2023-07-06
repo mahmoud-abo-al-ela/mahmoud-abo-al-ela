@@ -27,12 +27,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud-abo-al-ela&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
-<<<<<<< HEAD
 [Portfolio Website](https://mahmoud-abo-al-ela.github.io/)
 
-=======
-[Portfolio Website](https://www.mahmoudali.me)
-  
->>>>>>> f44d5e57e0a495c39158a32410437701d217e700
 ![](img/preview-img.png)
-
