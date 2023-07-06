@@ -360,7 +360,7 @@ main {
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
-  padding-bottom: 10rem;
+  padding-bottom: 6rem;
 }
 
 .separator {
@@ -383,8 +383,8 @@ main {
   display: flex;
   align-items: center;
   justify-content: space-around;
-  width: 100%;
-  padding-top: 5rem;
+  gap: 5rem;
+  padding-top: 6rem;
 }
 
 .icons .icon {
@@ -579,6 +579,34 @@ footer span {
 /* ADDITIONAL STYLES
 /* MEDIA QUERIES
 /*******************************************/
+@media screen and (max-width: 720px) {
+  .icons {
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .icons img {
+    width: 10rem;
+  }
+
+  .other-projects-box {
+    text-decoration: underline;
+  }
+
+  .other-projects-box .separator {
+    align-self: center;
+  }
+
+  .other-projects-box .separator::after {
+    display: none;
+  }
+
+  .other-projects-box .separator h2 {
+    font-size: 2rem;
+  }
+
+}
+
 @media screen and (min-width: 720px) {
   body {
     display: flex;
@@ -627,17 +655,9 @@ footer span {
     gap: 1.1rem;
   }
 
-  #about {
-    flex-flow: row wrap;
-    justify-content: space-between;
-  }
 
   .separator {
     width: 100%;
-  }
-
-  #about .separator+div {
-    width: 55vw;
   }
 
   .featured-projects-box {
@@ -654,14 +674,6 @@ footer span {
     text-decoration: underline;
   }
 
-  .notable-projects-box {
-    flex-flow: row wrap;
-    justify-content: center;
-  }
-
-  .side-project {
-    width: 35rem;
-  }
 
   #contact {
     margin: 3rem 0;
@@ -707,9 +719,9 @@ footer span {
     font-size: 3.2rem;
   }
 
-  #about .separator+div {
+  /* #about .separator+div {
     width: 48vw;
-  }
+  } */
 
   .separator~.project {
     position: relative;
@@ -819,21 +831,6 @@ footer span {
     transform: scale(1.05);
   }
 
-  .notable-projects-box {
-    width: 100%;
-    flex-flow: row;
-  }
-
-  .side-project {
-    max-width: 33.33%;
-  }
-
-  .img-box {
-    position: relative;
-    right: 0;
-    top: -7.5rem;
-  }
-
   #contact div {
     width: 40vw;
     padding-right: 3rem;
@@ -883,10 +880,6 @@ footer span {
 
   .declaration+p {
     width: 75%;
-  }
-
-  #about .separator+div {
-    width: 55%;
   }
 
   #contact div {
