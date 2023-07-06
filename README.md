@@ -25,7 +25,6 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud-abo-al-ela&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-
-[**portfolio website**](https://www.mahmoudali.me)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud-abo-al-ela&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />&nbsp;
+[Portfolio Website](https://www.mahmoudali.me)&nbsp;
 ![](img/preview-img.png)
