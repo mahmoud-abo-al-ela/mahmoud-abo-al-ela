@@ -283,14 +283,6 @@ main {
   background-clip: text;
 }
 
-.declaration {
-  margin: 0;
-
-  font-size: 2.5rem;
-  line-height: 1.4;
-  color: rgb(178, 185, 207);
-}
-
 .cta-box {
   margin-top: 4rem;
 }
@@ -580,6 +572,14 @@ footer span {
 /* MEDIA QUERIES
 /*******************************************/
 @media screen and (max-width: 720px) {
+  h1 {
+    font-size: 3rem;
+  }
+
+  .cta-box {
+    display: flex;
+  }
+
   .icons {
     flex-wrap: wrap;
     justify-content: space-around;
@@ -634,11 +634,6 @@ footer span {
 
   main section {
     width: 47rem;
-  }
-
-  h1,
-  .declaration {
-    font-size: 3.5rem;
   }
 
   .cta,
@@ -715,9 +710,6 @@ footer span {
     font-size: 3.2rem;
   }
 
-  .declaration {
-    font-size: 3.2rem;
-  }
 
   /* #about .separator+div {
     width: 48vw;
@@ -878,10 +870,6 @@ footer span {
     display: none;
   }
 
-  .declaration+p {
-    width: 75%;
-  }
-
   #contact div {
     width: 43rem;
   }
@@ -905,8 +893,7 @@ footer span {
     width: 65rem;
   }
 
-  h1,
-  .declaration {
+  h1 {
     font-size: 4rem;
   }
 
