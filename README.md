@@ -27,6 +27,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoud-abo-al-ela&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
-<a href="https://mahmoud-ali-portfolio.netlify.app/" target="_blank">Portfolio Website</a>
+### Check out my portfolio <a href="https://mahmoud-ali-portfolio.netlify.app/" target="_blank">Link</a>
 
-![](img/preview-img.png)
