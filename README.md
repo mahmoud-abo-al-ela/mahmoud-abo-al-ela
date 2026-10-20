@@ -58,7 +58,7 @@ I'm a web developer who leans hard into the front end. I build with **React, Nex
 </p>
 
 <p align="center"><b>Backend &amp; data</b><br /><br />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,supabase,java,spring&perline=10" alt="Backend: Node.js, Express, MongoDB, PostgreSQL, Prisma, Supabase, Java, Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,supabase&perline=10" alt="Backend: Node.js, Express, MongoDB, PostgreSQL, Prisma, Supabase" />
 </p>
 
 <p align="center"><b>Tools &amp; cloud</b><br /><br />
@@ -79,8 +79,8 @@ I'm a web developer who leans hard into the front end. I build with **React, Nex
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahmoud-abo-al-ela/mahmoud-abo-al-ela/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/mahmoud-abo-al-ela/mahmoud-abo-al-ela/output/github-snake.svg" alt="A snake eating my contribution graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahmoud-abo-al-ela/mahmoud-abo-al-ela/output/github-snake-dark.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/mahmoud-abo-al-ela/mahmoud-abo-al-ela/output/github-snake.svg?v=2" alt="A snake eating my contribution graph" />
 </picture>
 
 </div>
