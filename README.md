@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=EC4899&center=true&vCenter=true&width=560&lines=Hi%2C+I'm+Mahmoud+Ali+%F0%9F%91%8B;I+build+fast%2C+polished+web+interfaces;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Arabic+%26+English%2C+RTL-first+UIs;Currently+shipping+AutoMe+%F0%9F%9A%97" alt="Typing intro" />
 </a>
 
-<a href="https://linkedin.com/in/mahmoud-7li-abo-al-ela/"><img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="www.linkedin.com/in/mahmoud-abo-al-ela/"><img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://mahmoud-abo-al-ela.github.io/mahmoud-ali/"><img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 <img src="https://komarev.com/ghpvc/?username=mahmoud-abo-al-ela&style=for-the-badge&color=ec4899&label=Profile+views" alt="Profile views" />
 
